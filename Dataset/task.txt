@@ -1,0 +1,10 @@
+1)making map pop up 
+2)getting the tf lite model to work
+3)trying os video/youtube link
+4)try to make the things professional
+5)making an interface GUI
+6)getting pvc sheet to make the robot
+7)getting the raspberry pi,Camera, speaker,display
+8)learning about advance servo controll
+9)all togather
+
